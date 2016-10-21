@@ -1,4 +1,4 @@
-# INSTALL THEOS FOR MAC
+# SETUP THEOS FOR MAC
 1. Install Xcode
 2. Install MartPort
 3. Copy theos to /opt
